@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Site Title"
 title_separator          : "-"
 name                     : &name "Mark Hinds"
 description              : &description "personal description"
